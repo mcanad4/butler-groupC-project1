@@ -15,8 +15,8 @@ Deep dive into violent crime in Chicago while looking at impacts such as police 
 
 ## Datasets to be used:
 * data.cityofchicago.org
-* Crimes 2001 - Present
-* Police Stations
+* Crimes 2001 - Present (https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+* Police Stations (https://data.cityofchicago.org/Public-Safety/Police-Stations/z8bn-74gv)
 * US Census
 * Open Weather API
 
